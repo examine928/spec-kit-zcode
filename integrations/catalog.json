@@ -299,6 +299,15 @@
       "author": "spec-kit-core",
       "repository": "https://github.com/github/spec-kit",
       "tags": ["cli", "skills"]
+    },
+    "zcode": {
+      "id": "zcode",
+      "name": "ZCode",
+      "version": "1.0.0",
+      "description": "ZCode CLI skills-based integration by Z.ai",
+      "author": "spec-kit-core",
+      "repository": "https://github.com/github/spec-kit",
+      "tags": ["cli", "skills"]
     }
   }
 }
